@@ -23801,7 +23801,7 @@ $R:0,
 $S:0}
 T.v5.prototype={
 I:function(a){var t=null,s=u.t
-return M.eT(t,T.Jz(H.a([new M.o3(t),T.Jz(H.a([new U.kl("Resume",t),new T.cn(15,t,t,t),new U.kl("Portfolio",t),new T.cn(15,t,t,t),new U.kl("About",t)],s),C.iA,C.uD)],s),C.iA,C.bw),t,t,t,100,t,t,t)}}
+return M.eT(t,T.Jz(H.a([new M.o3(t),T.Jz(H.a([new U.kl("Resume",t),new T.cn(15,t,t,t),new U.kl("Portfolio",t),new T.cn(15,t,t,t),new U.kl("Contact",t)],s),C.iA,C.uD)],s),C.iA,C.bw),t,t,t,100,t,t,t)}}
 U.rO.prototype={
 I:function(a){var t=null
 return T.xh(C.hh,H.a([M.eT(t,t,t,t,S.mq(t,t,t,t,t,new X.tf(new D.kn("https://i.imgur.com/ZOH6kbi.jpg"),C.mI),C.P),t,t,t,t),M.eT(t,t,new P.G(16777215),t,t,t,t,t,t),M.eT(C.H,new T.eR(new S.aw(0,1200,0,1/0),this.c,t),t,t,t,t,t,C.rZ,t)],u.t),C.ha)}}
